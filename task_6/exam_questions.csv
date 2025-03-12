@@ -1,10 +1,11 @@
-1,"What is the capital of india?", "London", "Gujrat", "Delhi",C
-2,"Who is considered the "Father of the Nation" in India?", "Jawaharlal Nehru", "B.R Ambedkar", "Mahatma Gandhi", C
-3,"What is the national animal of India?", "Tiger", "Elephant", "Peacock",A
-4,"Which river is considered the holiest in India?", "Yamuna", "Ganga", "Brahmaputra",B
-5,"What is the national sport of India?", "Cricket", "Hockey", "Football",B 
-6,"Which city is known as the "Pink City" of India?", "Delhi", "Jaipur", "Mumbai",B
-7,"What is the national bird of India?", "Parrot", "Dove", "Peacock",C
-8,"When did India gain independence from British rule?", "1945", "1947", "1950",B
-9,"Who wrote the Indian national anthem Jana Gana Mana?", "Rabindranath Tagore", "Bankim Chandra Chatterjee", "Mahatma Gandhi",A 
-10,"Which Indian state is famous for its backwaters?", "Goa", "Tamil Nadu", "Kerala",C 
+Question, Option A, Option B, Option C, Correct Answer
+What is the capital of india?, London, Gujrat, Delhi,C
+Who is considered the Father of the Nation in India?, Jawaharlal Nehru, B.R Ambedkar, Mahatma Gandhi, C
+What is the national animal of India?, Tiger, Elephant, Peacock,A
+Which river is considered the holiest in India?, Yamuna, Ganga, Brahmaputra,B
+What is the national sport of India?, Cricket, Hockey, Football,B 
+Which city is known as the Pink City of India?, Delhi, Jaipur, Mumbai,B
+What is the national bird of India?, Parrot, Dove, Peacock,C
+When did India gain independence from British rule?, 1945, 1947, 1950,B
+Who wrote the Indian national anthem Jana Gana Mana?, Rabindranath Tagore, Bankim Chandra Chatterjee, Mahatma Gandhi,A 
+Which Indian state is famous for its backwaters?, Goa, Tamil Nadu, Kerala,C 
